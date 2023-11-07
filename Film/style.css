@@ -1,0 +1,26 @@
+.header{
+    height: 6em;
+}
+.content{
+    margin-top: 8em;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+img{
+    height: 21.9em;
+}
+.or{
+    padding: 1px;
+    width: 60%;
+    margin: 0 auto;
+    height: 1px;
+    border-top: 1px dashed #878284;
+    padding: 1em 0;
+}
+.fill-form-register{
+    height: 26em;
+    border-radius: 20px;
+
+}

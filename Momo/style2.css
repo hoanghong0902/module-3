@@ -1,0 +1,15 @@
+.navbar {
+    background-color: #fad9f3;
+}
+body{
+    background-color: #f5e9f2;
+}
+
+.container{
+    margin-top: 60px;
+    width: 35%;
+    border: 2px #fbadf1 solid;
+    box-shadow: 20px 20px 40px 10px rgb(240, 201, 208) ;
+    padding: 20px;
+    background-color: #eedeec;
+}
